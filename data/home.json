@@ -11,24 +11,6 @@
       "desc": "Launches the test runner in the interactive watch mode1"
     },
     {
-      "title": "test Course 2",
-      "path": "/courses/testcourse2",
-      "dataProvider": "",
-      "desc": "Launches the test runner in the interactive watch mode 2."
-    },
-    {
-      "title": "test Course 3",
-      "path": "/courses/testcourse3",
-      "dataProvider": "",
-      "desc": "Launches the test runner in the interactive watch mode 34345 3."
-    },
-    {
-      "title": "test Course 4",
-      "path": "/courses/testcourse4",
-      "dataProvider": "",
-      "desc": "Launches the test runner in the interactive watch mode 345 345 ."
-    },
-    {
       "title": "Analog Microelectronic Circuits 2021",
       "path": "/courses/Analog-Microelectronic-Circuits-2021",
       "dataProvider": "",
