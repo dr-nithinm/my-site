@@ -1,5 +1,5 @@
 {
-  "Current Courses": [
+  "currentCourses": [
     {
       "title": "Mixed Signal Integrated Circuits Design 2021",
       "path": "/courses/Mixed-Signal-Integrated-Circuits-Design-2021",
@@ -8,7 +8,7 @@
       "year": "2021"
     }
   ],
-  "Past Courses": {
+  "archiveCourses": {
     "2020": [
       {
         "title": "Analog Microelectronic Circuits 2020",
