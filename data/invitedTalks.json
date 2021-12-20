@@ -3,10 +3,11 @@
     {
       "date": "Sep 26, 2020",
       "title": "Analog Integrated Circuits Design - Challenges & Opportunities in Digital Era",
-      "venue": {
-        "title": "Department of ECE, Mar Baselios College of Engineering and Technology",
-        "address": "Trivandrum"
-      },
+      "venue": [
+        "Department of ECE",
+        "Mar Baselios College of Engineering and Technology",
+        "Trivandrum"
+      ],
       "audience": "UG students of ECE and faculty members"
     }
   ]
