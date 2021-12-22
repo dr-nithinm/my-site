@@ -1,0 +1,19 @@
+{
+  "title": "Analog IC Design 2020",
+  "desc": "A mixed-signal integrated circuit is any integrated circuit that has both analog circuits and digital circuits on a single semiconductor die.In real-life applications mixed-signal designs are everywhere, for example, in smart mobile phones, sensor systems with on-chip standardized digital interfaces (like I2C, UART, SPI, CAN etc.),voice related signal processing, aerospace and space electronics, IoT, unmanned aerial vehicles (UAVs), automotive and other electrical vehicles. Mixed-signal ICs also process both analog and digital signals together. For example, an analog-to-digital converter (ADC) is a typical mixed-signal circuit. Mixed-signal circuits or systems are typically cost-effective solutions for building any modern consumer electronics, industrial, medical, measurement, space etc. applications. A mixed signal integrated circuit may also contain on-chip memory blocks like OTP, which complicates the manufacturing compared to analog ICs. A mixed signal integrated circuit minimizes off-chip interconnects between digital and analog functionality in the system, typically size and weight of the realization due to minimized packaging and reduced system board (PWB/PCB, module substrate etc.) size and therefore increase the reliability of the system.",
+  "playlistLink": "",
+  "content": [
+    {
+      "title": "Mixed Signal Design Overview | Lecture 1 | MICD Unit 1",
+      "shortDesc": "This lecture covers the overview of Mixed Signal Design.",
+      "ytLink": "https://youtu.be/oia9paQF06k",
+      "docLink": ""
+    },
+    {
+      "title": "Mixed Signal Design Overview | Lecture 1 | MICD Unit 1",
+      "shortDesc": "This lecture covers the overview of Mixed Signal Design.",
+      "ytLink": "https://youtu.be/oia9paQF06k",
+      "docLink": ""
+    }
+  ]
+}
