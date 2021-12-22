@@ -1,7 +1,7 @@
 {
   "talks": [
     {
-      "date": "Sep 26, 2020",
+      "date": "September 26, 2020",
       "title": "Analog Integrated Circuits Design - Challenges & Opportunities in Digital Era",
       "venue": [
         "Department of ECE",
@@ -28,6 +28,15 @@
         " Bangalore"
       ],
       "audience": "UG students, Research scholars and faculty members"
+    },
+    {
+      "date": "June 11 2021",
+      "title": "Research Opportunities and Career choices of ECE Students",
+      "venue": [
+        "Mohandas College of Engineering and Technology",
+        " Trivandrum"
+      ],
+      "audience": "UG Students of ECE and faculty members"
     }
   ]
 }
