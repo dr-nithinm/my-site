@@ -1,7 +1,7 @@
 {
   "title": "Mixed Signal Integrated Circuits Design 2021",
   "desc": "This course covers fundamentals of data converters, Nyquist-rate converters ,central concept of oversampling and CMOS Image sensor design. This course is intended for those who seek to learn more about mixed-signal (analog plus digital) circuit design, analysis, and application. The course starts with sampling circuits, then building blocks for data converters - Opamps and Comparators, later the architecture of DACs and ADCs are covered.",
-  "playlistLink": "",
+  
   "content": [
     {
       "title": "Mixed Signal Design Overview | Lecture 1 | MICD Unit 1",
