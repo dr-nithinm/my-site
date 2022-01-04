@@ -10,32 +10,32 @@
     },
     {
       "title": "Unit 1 | Lecture 2 | Dynamic Analog Circuits",
-      "shortDesc": "This lecture covers the introduction to dynamic analog circuits - Sampling switches. This lecture covers the ability of MOSFET to exchange the roles of source and drain via two examples..",
+      "shortDesc": "This lecture is an introduction to dynamic analog circuits - Sampling switches. It covers the ability of MOSFET to exchange the roles of source and drain via two examples..",
       "ytLink": "https://youtu.be/Dydm0CuXDhs",
       "docLink": ""
     },
     {
       "title": "Unit 1 | Lecture 3 | Sampling Switches - Speed Considerations",
-      "shortDesc": "In this video you will learn about the speed considerations of a sampling switch, how to define speed of a sampling switch, factors affecting the switching speed and the resistance of NMOS switch, PMOS switch and Transmission Gate Switch..",
+      "shortDesc": "This lecture is about the speed considerations of a sampling switch, how to define speed of a sampling switch, factors affecting the switching speed and the resistance of NMOS switch, PMOS switch and Transmission Gate Switch..",
       "ytLink": "https://youtu.be/QmaJVJJ5ZPo",
       "docLink": ""
     },
     {
-      "title": "Mixed Signal Design Overview | Lecture 1 | MICD Unit 1",
-      "shortDesc": "This lecture covers the overview of Mixed Signal Design.",
-      "ytLink": "https://youtu.be/oia9paQF06k",
+      "title": "Unit 1 | Lecture 4 | Sampling Switches - Precision considerations",
+      "shortDesc": "This lecture is about the charge injection mechanism and its effects..",
+      "ytLink": "https://youtu.be/ZmZfXiBxC-M",
       "docLink": ""
     },
     {
-      "title": "Mixed Signal Design Overview | Lecture 1 | MICD Unit 1",
-      "shortDesc": "This lecture covers the overview of Mixed Signal Design.",
-      "ytLink": "https://youtu.be/oia9paQF06k",
+      "title": "Unit 1 | Lecture 5 | Sampling Switches - Precision considerations contd",
+      "shortDesc": "This lecture covers clock feedthrough/ capacitive feedthrough effects and KT/C noise.",
+      "ytLink": "https://youtu.be/iyB4S00akbQ",
       "docLink": ""
     },
     {
-      "title": "Mixed Signal Design Overview | Lecture 1 | MICD Unit 1",
-      "shortDesc": "This lecture covers the overview of Mixed Signal Design.",
-      "ytLink": "https://youtu.be/oia9paQF06k",
+      "title": "Unit 1 | Lecture 6 | Techniques to resolve charge injection and clock feedthrough",
+      "shortDesc": "This lecture covers charge injection and clock feedthrough/ capacitive feedthrough reduction techniques.",
+      "ytLink": "Recording error",
       "docLink": ""
     },
     {
