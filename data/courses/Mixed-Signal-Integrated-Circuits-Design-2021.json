@@ -55,6 +55,12 @@
       "shortDesc": "This lecture covers the introduction to switched capacitor circuits.",
       "ytLink": "https://youtu.be/fSz3z85aWfE",
       "docLink": ""
+    },
+    {
+      "title": "Unit 2 | Lecture 2 | Bottom plate sampling, Parasitic Insensitive Switched Capacitor Integrator",
+      "shortDesc": "This lecture covers bottom plate sampling to reduce charge injection and parasitic insensitive switched capacitor integrator .",
+      "ytLink": "https://youtu.be/yFGkuCLeuvY",
+      "docLink": ""
     }
   ]
 }
