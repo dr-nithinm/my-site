@@ -57,9 +57,15 @@
       "docLink": ""
     },
     {
-      "title": "Unit 2 | Lecture 2 | Bottom plate sampling, Parasitic Insensitive Switched Capacitor Integrator",
-      "shortDesc": "This lecture covers bottom plate sampling to reduce charge injection and parasitic insensitive switched capacitor integrator .",
+      "title": "Unit 2 | Lecture 2 | Bottom plate sampling, Parasitic Sensitive Switched Capacitor Integrator",
+      "shortDesc": "This lecture covers bottom plate sampling to reduce charge injection and parasitic sensitive switched capacitor integrator .",
       "ytLink": "https://youtu.be/yFGkuCLeuvY",
+      "docLink": ""
+    },
+     {
+      "title": "Unit 2 | Lecture 3 | Parasitic Insensitive Switched Capacitor Integrator",
+      "shortDesc": "This lecture covers parasitic insensitive switched capacitor integrator .",
+      "ytLink": "https://youtu.be/7g5PbXLinN0",
       "docLink": ""
     }
   ]
