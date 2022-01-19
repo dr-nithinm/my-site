@@ -115,6 +115,24 @@
       "shortDesc": "This lecture deals with the development of a SA latch .",
       "ytLink": "https://youtu.be/1FVndly1cAY",
       "docLink": ""
+    },
+    {
+      "title": "Unit 3 | Lecture 5 | Basic Comparator Design",
+      "shortDesc": "This lecture deals with the preamplification, decision and buffer stage of comparator",
+      "ytLink": "https://youtu.be/fGQFZ8P8Ngw",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 | Lecture 6 | Data Converter Specifications - Introduction DAC fundamentals",
+      "shortDesc": "This lecture covers the fundamentals of converters - LSB, Full scale voltage, resolution .",
+      "ytLink": "https://youtu.be/4IhcTu3plFs",
+      "docLink": ""
+    },
+     {
+      "title": "Unit 3 | Lecture 7 | Data Converter Specifications - Static Specifications of DAC - DNL",
+      "shortDesc": "This covers the Differential NonLinearity of a DAC.",
+      "ytLink": "https://youtu.be/h3BXfsI1Ig0",
+      "docLink": ""
     }
   ]
 }
