@@ -91,6 +91,30 @@
       "shortDesc": "This lecture covers the design from specifications .",
       "ytLink": "https://youtu.be/wdho-BUXMoE",
       "docLink": ""
+    },
+    {
+      "title": "Unit 3 | Lecture 1 | Clocked Comparators - Introduction",
+      "shortDesc": "This lecture deals clocked comparators and its fundamentals.",
+      "ytLink": "https://youtu.be/MwM46jAdlzQ",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 | Lecture 2 | Clocked Comparators Circuit discussion",
+      "shortDesc": "This lecture develops the circuit of a fully differential comparator based on regenerative latch .",
+      "ytLink": "https://youtu.be/d4ErUJGgDwY",
+      "docLink": ""
+    },
+     {
+      "title": "Unit 3 | Lecture 3 | Clocked comparator Waveforms",
+      "shortDesc": "This lecture covers the timing diagram of a clocked comparator .",
+      "ytLink": "https://youtu.be/bAQqzwhv5Lo",
+      "docLink": ""
+    },
+     {
+      "title": "Unit 3 | Lecture 4 | Strong Arm Latch",
+      "shortDesc": "This lecture deals with the development of a SA latch .",
+      "ytLink": "https://youtu.be/1FVndly1cAY",
+      "docLink": ""
     }
   ]
 }
