@@ -6,6 +6,13 @@
       "dataProvider": "",
       "desc": "This course covers Sampling Circuits, Basic building blocks - Opamps and Comparators, DAC ADC Specifications, DAC Architectures, ADC Architectures",
       "year": "2021"
+    },
+    {
+      "title": "Mixed Signal Integrated Circuits Design 2021",
+      "path": "/courses/Mixed-Signal-Integrated-Circuits-Design-2021",
+      "dataProvider": "",
+      "desc": "This course covers Sampling Circuits, Basic building blocks - Opamps and Comparators, DAC ADC Specifications, DAC Architectures, ADC Architectures",
+      "year": "2021"
     }
   ],
   "archiveCourses": {
