@@ -1,8 +1,6 @@
 {
   "title": "Analog Microelectronic Circuits 2021",
-  "desc": "
-Since the world is analog, each interface between the world and a computer will contain analog circuits. In this course, a serious attempt is made to make a balance between theory and practice so that the discussed circuits can be constructed in the laboratory class. This will help to build a strong foundation on the concepts. 
-The other important feature of this course is, it covers circuits based on both BJT and MOSFET. The analysis of  MOSFET based circuits provides the necessary foundation for Analog VLSI and the courses like Analog IC Design, Mixed Signal IC Design and  Radio Frequency Circuit Design. ",
+  "desc": "",
   "playlistLink": "",
   "content": [
     {
