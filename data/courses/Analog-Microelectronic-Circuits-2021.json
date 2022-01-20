@@ -4,9 +4,15 @@
   "playlistLink": "",
   "content": [
     {
-      "title": "AMC  | Lecture 1 | AMC Unit 1",
-      "shortDesc": "This lecture covers the overview of Mixed Signal Design.",
-      "ytLink": "https://youtu.be/oia9paQF06k",
+      "title": "Unit 0 Lecture 1 Motivation to study electronic circuits",
+      "shortDesc": "This lecture covers the definition of engineering and motivation behind the study of circuits.",
+      "ytLink": "https://youtu.be/gFlwBzfj-VQ",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 0 Lecture 2 Preliminaries",
+      "shortDesc": "This lecture covers the preliminaries for the study of electronic circuits.",
+      "ytLink": "https://youtu.be/U00na4ltlbU",
       "docLink": ""
     }
   ]
