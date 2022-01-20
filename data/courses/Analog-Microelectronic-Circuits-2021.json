@@ -68,6 +68,42 @@
       "shortDesc": "This lecture covers the numericals based on biasing circuits.",
       "ytLink": "https://youtu.be/WMTdkM9emSg",
       "docLink": ""
+    },
+    {
+      "title": "Unit 1 Lecture 8 Models for Analog Design",
+      "shortDesc": "This lecture covers small signal modelling of a MOSFET for analog design.",
+      "ytLink": "https://youtu.be/T_Lxm4hPhPs",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 1 Lecture 9 MOSFET Amplifier configurations, CS Amplifier",
+      "shortDesc": "This lecture covers 3 different amplifier configurations and CS amplifier in detail.",
+      "ytLink": "https://youtu.be/nE8pcIKtPjg",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 1 Lecture 10 MOSFET Intrinsic gain and Numerical",
+      "shortDesc": "This lecture covers maximum gain of a MOSFET and numericals based on circuits.",
+      "ytLink": "https://youtu.be/pkydiHyxjj8",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 1 Lecture 11 Numericals, Small Signal output resistance calculation",
+      "shortDesc": "This lecture covers small signal output resistance of various MOSFET configurations.",
+      "ytLink": "https://youtu.be/uEeaZs2qqhI",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 1 Lecture 12 Small signal output resistance calculation",
+      "shortDesc": "This lecture covers small signal output resistance of various MOSFET configurations.",
+      "ytLink": "https://youtu.be/k0Lug0u99cs",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 1 Lecture 13 CS Amplifier with source degeneration",
+      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "ytLink": "https://youtu.be/eBeJwziDKsg",
+      "docLink": ""
     }
   ]
 }
