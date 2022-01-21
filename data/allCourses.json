@@ -19,7 +19,7 @@
     " Even 2021": [
       {
         "title": "Analog Integrated Circuits Design",
-        "path": "/courses/Mixed-Signal-Integrated-Circuits-Design-2021",
+        "path": "/courses/Analog-IC-Design-2020",
         "dataProvider": "",
         "desc": "This course covers MOSFET based amplifiers, circuit level design of opamps, stability and frequency compensation of opamps, bandgap references,noise in ICs and analog filters",
         "year": "2020"
