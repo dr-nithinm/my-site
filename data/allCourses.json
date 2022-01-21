@@ -16,7 +16,7 @@
     }
   ],
   "archiveCourses": {
-    " Even 2020": [
+    " Even 2021": [
       {
         "title": "Analog Integrated Circuits Design",
         "path": "/courses/Mixed-Signal-Integrated-Circuits-Design-2021",
@@ -32,6 +32,6 @@
         "year": "2020"
       }
     ],
-    "April 2021": []
+    "Odd 2020": []
   }
 }
