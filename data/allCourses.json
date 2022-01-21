@@ -16,19 +16,19 @@
     }
   ],
   "archiveCourses": {
-    "2020": [
+    " Even 2020": [
       {
-        "title": "Analog Microelectronic Circuits 2020",
+        "title": "Analog Integrated Circuits Design",
         "path": "/courses/Mixed-Signal-Integrated-Circuits-Design-2021",
         "dataProvider": "",
-        "desc": "Launches the test runner in the interactive watch mode1",
+        "desc": "This course covers MOSFET based amplifiers, circuit level design of opamps, stability and frequency compensation of opamps, bandgap references,noise in ICs and analog filters",
         "year": "2020"
       },
       {
-        "title": "Analog IC Design 2020",
+        "title": "Radio Frequency and Millimeter Wave IC Design",
         "path": "/courses/Analog-IC-Design-2020",
         "dataProvider": "",
-        "desc": "Launches the test runner in the interactive watch mode1",
+        "desc": "This course covers the nonlinearity and noise in integrated circuits, RF transceiver architectures - design and analysis, RF Circuit blocks like LNA, Mixer, Oscillators and PLL ",
         "year": "2020"
       }
     ],
