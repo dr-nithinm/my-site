@@ -133,6 +133,30 @@
       "shortDesc": "This covers the Differential NonLinearity of a DAC.",
       "ytLink": "https://youtu.be/h3BXfsI1Ig0",
       "docLink": ""
+    },
+     {
+      "title": "Unit 3 | Lecture 8 | Data Converter Specifications - INL and Dynamic Specifications of DAC ",
+      "shortDesc": "This covers the Integral nonlinearity and dynamic specs of a DAC.",
+      "ytLink": "https://youtu.be/0noZ2n-oVnA",
+      "docLink": ""
+    },
+     {
+      "title": "Unit 4 | Lecture 1 | DAC Architectures - Resistor String DAC",
+      "shortDesc": "This covers the simple Resistor String DAC and a Binary switch Array.",
+      "ytLink": "https://youtu.be/Svzil4SHTkg",
+      "docLink": ""
+    },
+     {
+      "title": "Unit 4 | Lecture 2 | DAC Architectures - INL of Resistor String DAC",
+      "shortDesc": "This covers the Integral  NonLinearity of resistor string DAC and numericals.",
+      "ytLink": "https://youtu.be/J7pVkuhd0Ss",
+      "docLink": ""
+    },
+     {
+      "title": "Unit 4 | Lecture 3 | DAC Architectures- Worst case INL and DNL",
+      "shortDesc": "This covers errors due to mismatches.",
+      "ytLink": "https://youtu.be/IgeIun02LDc",
+      "docLink": ""
     }
   ]
 }
