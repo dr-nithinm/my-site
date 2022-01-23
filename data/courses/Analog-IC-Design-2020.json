@@ -1,7 +1,6 @@
 {
   "title": "Analog IC Design 2020",
-  "desc": "Since the world is analog, each interface between the world and a computer will contain analog circuits. In this course, a serious attempt is made to make a balance between theory and practice so that the discussed circuits can be simulated and studies. This will help to build a strong foundation on the concepts.
-The other important feature of this course is, it covers circuits based on MOSFET for present day ICs. The analysis of  MOSFET based circuits provides the necessary foundation for Analog VLSI and the courses like Mixed Signal IC Design and  Radio Frequency Circuit Design.",
+  "desc": "Since.",
   "playlistLink": "",
   "content": [
     {
