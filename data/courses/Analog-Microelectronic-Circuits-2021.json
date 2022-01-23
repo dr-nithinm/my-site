@@ -296,6 +296,48 @@
       "shortDesc": "This lecture covers the ideal characteristics of opamp, differential and common mode signals.",
       "ytLink": "https://youtu.be/tnaZ0lIne0c",
       "docLink": ""
+    },
+    {
+      "title": "Unit 4 Lecture 2 Operational Amplifiers - Inverting amplifier, Effect of finite open loop gain",
+      "shortDesc": "This lecture covers the circuit of opamp, inverting amp configuration, effect of finite open loop gain.",
+      "ytLink": "https://youtu.be/wBD-Au_rEPs",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 4 Lecture 3 Non inverting amplifier, Voltage follower, Differential  Amplifier",
+      "shortDesc": "This lecture covers non inverting amplifier, voltage follower and differential amplifier.",
+      "ytLink": "https://youtu.be/wQp1AKAHN_g",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 4 Lecture 4 Differential Amplifier using Opamp",
+      "shortDesc": "This lecture covers the difference amplifier / differential amplifier.",
+      "ytLink": "https://youtu.be/KCZzecuDFKA",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 4 Lecture 5 | Instrumentation Amplifier",
+      "shortDesc": "This lecture covers instrumentation amplifier, calculation of differential and common mode gain",
+      "ytLink": "https://youtu.be/1W94-HAA6Hk",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 4 Lecture 6 Numericals",
+      "shortDesc": "This lecture covers the numericals on difference amplifier and instrumentation amplifier.",
+      "ytLink": "https://youtu.be/s-PKwB7A8kI",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 4 Lecture 7 Precision Rectifiers",
+      "shortDesc": "This lecture covers the use of superdiode as precision rectifier.",
+      "ytLink": "https://youtu.be/Y98lYsyS5eA",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 4  Lecture 8 Opamp based Comparators",
+      "shortDesc": "This lecture covers the open loop configuration of opamps.",
+      "ytLink": "https://youtu.be/6dqE68P53Kk",
+      "docLink": ""
     }
   ]
 }
