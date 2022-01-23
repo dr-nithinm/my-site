@@ -220,9 +220,81 @@
       "docLink": ""
     },
     {
-      "title": "Unit 3 Lecture 3   Frequency Response of MOSFET Amplifier contd",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "title": "Unit 3 Lecture 3 Frequency Response of MOSFET Amplifier contd",
+      "shortDesc": "This lecture covers the frequency response of CS amplifier, numericals.",
       "ytLink": "https://youtu.be/JM6Stnevma8",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 4 Basic MOSFET Current Mirror",
+      "shortDesc": "This lecture covers the concept of current mirrors using MOSFET.",
+      "ytLink": "https://youtu.be/yFcHINAIHu4",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 5 Numericals on Basic Current Mirror",
+      "shortDesc": "This lecture covers the numericals on current mirrors.",
+      "ytLink": "https://youtu.be/1E_6NMll38g",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 6 Numericals on current mirror",
+      "shortDesc": "This lecture covers numericals on current mirrors..",
+      "ytLink": "https://youtu.be/vf9gXAA4-lI",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 7 BJT current mirror",
+      "shortDesc": "This lecture covers the concept of BJT based mirrors.",
+      "ytLink": "https://youtu.be/TR9dxZ5S2nc",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 8 Bipolar current mirror with base current compensation",
+      "shortDesc": "This lecture covers the base current compensation technique for better accuracy",
+      "ytLink": "https://youtu.be/I_0xusxcwlc",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 9 Wilson Current Mirror",
+      "shortDesc": "This lecture covers the Wilson current mirror using BJT for better output impedance.",
+      "ytLink": "https://youtu.be/aIi7mtl--cM",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 10 Wilson Current mirror Output impedance calculation",
+      "shortDesc": "This lecture covers the Rout calculation of Wilson current mirror.",
+      "ytLink": "https://youtu.be/8H-w8MCmt0M",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 11 Wilson Current Mirror using MOSFET",
+      "shortDesc": "This lecture covers the Wilson current mirror using MOSFET for better output impedance .",
+      "ytLink": "https://youtu.be/L8HbLTpd-Dk",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 12 Widlar Current Source",
+      "shortDesc": "This lecture covers Widlar current source.",
+      "ytLink": "https://youtu.be/vioDG2_0x4E",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 13 MOSFET current mirror numericals",
+      "shortDesc": "This lecture covers the numericals.",
+      "ytLink": "https://youtu.be/W79y2DbrjwE",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 3 Lecture 14 Tutorial 3 Current mirrors",
+      "shortDesc": "This lecture covers the numericals.",
+      "ytLink": "https://drive.google.com/file/d/1yBNSBL2DajGm7JXBQV44ZhJNkAviTiKT/view?usp=sharing",
+      "docLink": ""
+    },
+    {
+      "title": "Unit 4 Lecture 1 Introduction to Operational Amplifiers",
+      "shortDesc": "This lecture covers the ideal characteristics of opamp, differential and common mode signals.",
+      "ytLink": "https://youtu.be/tnaZ0lIne0c",
       "docLink": ""
     }
   ]
