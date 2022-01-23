@@ -131,98 +131,98 @@
     },
     {
       "title": "Unit 2 Lecture 4 Small Signal Models of BJT Part 1",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the ideal MOSFET models of CE configuration.",
       "ytLink": "https://youtu.be/Y5loOkkBkb4",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 4 Small Signal Models of BJT Part 2",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers re model of BJT.",
       "ytLink": "https://youtu.be/QwUK7rT1tGw",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 5 DC Numericals on BJT",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the numericals on the concept of biasing and amplifiers.",
       "ytLink": "https://youtu.be/mGIBO9zanPQ",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 6 BJT DC problems, Early Effect, Demo in multisim ",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers numericals and demo of early effect in BJT.",
       "ytLink": "https://youtu.be/EYkgfEv7yYA",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 7 Small Signal Input and Output impedance of BJT",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the concept of calculation of small signal input and output impedance of BJT.",
       "ytLink": "https://youtu.be/tD_OihVv7bU",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 8 BJT Intrinsic Gain, CE Amplifier",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the concept of intrinsic gain of BJT, Amplifier in CE configuration.",
       "ytLink": "https://youtu.be/OR-PCVyCC2s",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 9 CC Amplifier",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the concept of voltage buffer / CC amplifier.",
       "ytLink": "https://youtu.be/dpEcBzUyuew",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 10 CE Amplifier with emitter degeneration ",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the concept of emitter degeneration in a CE amplifier.",
       "ytLink": "https://youtu.be/oZyKs_fiT00",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 11 Numericals",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the numericals on the concepts of amplifier.",
       "ytLink": "https://youtu.be/sJlQeMtrLLw",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 12 Numericals",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the numericals on the concepts of amplifier.",
       "ytLink": "https://youtu.be/zbcZDfJfyW8",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 13 Numericals",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the numericals on the concepts of amplifier.",
       "ytLink": "https://youtu.be/Nrvr_z5HA7E",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 14 Numericals",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the numericals on the concepts of amplifier.",
       "ytLink": "https://youtu.be/OREm2pKiTmg",
       "docLink": ""
     },
     {
       "title": "Unit 2 Lecture 15 Darlington Pair",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
+      "shortDesc": "This lecture covers the concept of cascade of two CC configurations.",
       "ytLink": "https://youtu.be/FYZ4YYPEcOo",
       "docLink": ""
     },
     {
-      "title": "Unit 2 Lecture 14 Numericals",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
-      "ytLink": "https://youtu.be/OREm2pKiTmg",
+      "title": "Unit 3 Lecture 1 High Frequency Equivalent circuit of MOSFET",
+      "shortDesc": "This lecture covers the concept of Miller's theorem and high frequency models of MOSFET.",
+      "ytLink": "https://youtu.be/IBuQmSdhM3o",
       "docLink": ""
     },
     {
-      "title": "Unit 2 Lecture 13 Numericals",
-      "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
-      "ytLink": "https://youtu.be/Nrvr_z5HA7E",
+      "title": "Unit 3 Lecture 2 Frequency Response of a CS Amplifier",
+      "shortDesc": "This lecture covers the frequency response of CS amplifier, cutoff frequency calculation.",
+      "ytLink": "https://youtu.be/Gwdo7Y5yGdQ",
       "docLink": ""
     },
     {
-      "title": "Unit 2 Lecture 14 Numericals",
+      "title": "Unit 3 Lecture 3   Frequency Response of MOSFET Amplifier contd",
       "shortDesc": "This lecture covers the concept of source degeneration in a CS amplifier.",
-      "ytLink": "https://youtu.be/OREm2pKiTmg",
+      "ytLink": "https://youtu.be/JM6Stnevma8",
       "docLink": ""
     }
   ]
