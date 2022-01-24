@@ -338,6 +338,12 @@
       "shortDesc": "This lecture covers the open loop configuration of opamps.",
       "ytLink": "https://youtu.be/6dqE68P53Kk",
       "docLink": ""
+    },
+    {
+      "title": "Unit 4  Lecture 9 Schmitt Trigger",
+      "shortDesc": "This lecture covers the design of Schmitt Trigger circuits.",
+      "ytLink": "https://youtu.be/uoDdKRgJyeM",
+      "docLink": ""
     }
   ]
 }
